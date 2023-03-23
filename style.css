@@ -1,0 +1,91 @@
+section
+{
+
+	height: 100%;
+	width: 100%;
+	background-color: grey;
+}
+footer
+{
+	height: 82px;
+	width: 100%;
+	text-align: center;
+	background-color: black;
+}
+section .sec_img
+{
+   padding-top: 12em;
+	background-image: url("img2.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+    height: 627px;
+}
+.box
+{
+	
+	height: 240px;
+	width: 350px;
+	background-color: #030002;
+	margin:  auto;
+	opacity: .6;
+	color: white;
+}
+
+/*--------------------------------st_login-----------------------------*/
+
+.log_img
+{
+	height: 710px;
+	margin-top: 0px;
+	background-image: url("img.png");
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+.Book_img
+{
+	height: 710px;
+	margin-top: 0px;
+	background-image: url("img.png");
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+.box1
+{
+	height: 450px;
+	width: 450px;
+	background-color: black;
+	margin: 70px auto;
+	opacity: .7;
+	color: white;
+	padding: 20px;
+}
+form .login
+{
+	margin: auto 10 0px;
+}
+input
+{
+	height: 25px;
+	width: 300px;
+
+}
+/*------------------------------registration--------------------*/
+.reg_img
+{
+	height: 710px;
+	margin-top: 0px;
+	background-image: url("img.png");
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+.box2
+{
+	height: 589px;
+	width: 450px;
+	background-color: black;
+	margin: 11px auto;
+	padding: 20px;
+	opacity: .7;
+	color: white;
+	padding: 15px;
+}
